@@ -40,6 +40,7 @@ namespace PistiOyunu
             masa.OyunOyna();
             //Console.WriteLine();
             Console.WriteLine(masa);
+            //testizin vermiyor hocam kapatıp açıyım mı :D
         }
     }
 }

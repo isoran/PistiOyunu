@@ -102,6 +102,13 @@ namespace PistiOyunu
             return string.Format("Deste ({0}):\nOyuncular:\n{2}\n\nYer: {1}", deste.KartSay(), yer_str, oyuncular_str);
         }
 
+        private void KalanlariTopla()
+        {
+            // En son el alan oyuncu kalanları toplayacak
+            // winform yapısından gerçekleştireceğiz
+            // test
+        }
+
 
     }
 }
