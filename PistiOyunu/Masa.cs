@@ -107,6 +107,7 @@ namespace PistiOyunu
             // En son el alan oyuncu kalanları toplayacak
             // winform yapısından gerçekleştireceğiz
             // test
+            // yeni test eklendi
         }
 
 
